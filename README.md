@@ -1,6 +1,6 @@
 # EXIF-Remover
 
-[![Build Status](https://travis-ci.org/openssf/code.svg?branch=master)](https://travis-ci.org/openssf/code)
+[![Build Status](https://travis-ci.org/openssf/exif-remover.svg?branch=master)](https://travis-ci.org/openssf/exif-remover)
 
 A simple Java-based tool to remove EXIF data (such as location tags) from images. Supports many different formats.
 
